@@ -1,0 +1,81 @@
+# ==============================================================================
+# CMake / Build Directories
+# ==============================================================================
+build/
+bin/
+out/
+cmake-build-*/
+
+# ==============================================================================
+# CMake Generated Files (in case of in-source builds)
+# ==============================================================================
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+install/
+compile_commands.json
+
+# ==============================================================================
+# Compiler & Linker Outputs
+# ==============================================================================
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.su
+*.gch
+*.d
+
+# ==============================================================================
+# IDEs and Editors
+# ==============================================================================
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.filters
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# JetBrains (CLion, etc.)
+.idea/
+
+# Developer Environment & LSP
+.clangd/
+.cache/
+.direnv/
+.env
+.envrc
+
+# ==============================================================================
+# OS Generated Files
+# ==============================================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================================================================
+# Scratch / Temp Files
+# ==============================================================================
+*.log
+*.tmp
+*.temp
+scratch/
+changes.md
+cahnges.md
