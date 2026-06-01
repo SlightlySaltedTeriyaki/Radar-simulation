@@ -6,7 +6,7 @@ A real-time C++ radar simulation with a full DSP pipeline: target physics, Range
 
 ## Screenshot
 
-![RadarSim GUI screenshot](docs/radar_sim_sceenshot.png)
+![RadarSim GUI screenshot](docs/radar_sim_screenshot.png)
 
 ---
 
